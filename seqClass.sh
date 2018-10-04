@@ -1,3 +1,4 @@
+#Canviiii
 #!/bin/bash
 seq=$1 #Guarda los valores entrados en una variable
 seq=$(echo $seq | tr a-z A-Z)  # Pasa a mayusculas los valores entrados
